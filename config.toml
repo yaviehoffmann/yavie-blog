@@ -1,4 +1,4 @@
-baseURL = "https://meetyavie.netlify.app/"
+baseURL = "https://iridescent-brioche-e52c28.netlify.app//"
 languageCode = "de-de"
 title = "Yavie"
 theme = "ananke"
@@ -6,6 +6,8 @@ theme = "ananke"
 paginate = 10
 
 [params]
-  description = "Hi, ich bin Yavie."
+  description = "Hi, I'm Yavie."
   featured_image = "/images/yavie-hero.jpg"
+  background_color_class = "bg-black"
+  text_color_class = "text-white"
   show_reading_time = true
