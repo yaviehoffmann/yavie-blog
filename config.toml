@@ -1,6 +1,6 @@
 baseURL = "https://iridescent-brioche-e52c28.netlify.app/"
-languageCode = "de-de"
-title = "Yavie"
+languageCode = "de-DE"
+title = "Yavie Hoffmann"
 
 paginate = 10
 
@@ -12,6 +12,12 @@ paginate = 10
 networks = ["instagram"]
 
 [params]
+description = "Gedanken, Geschichten und Perspektiven aus einer nahen Zukunft."
+featured_image = "/images/yavie-hero.jpg"
+background_color_class = "bg-black"
+text_color_class = "text-white"
+show_reading_time = true
+
 instagram = "meetyavie"
 
 [menu]
