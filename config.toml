@@ -8,18 +8,6 @@ paginate = 10
   [[module.imports]]
     path = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
 
-[ananke.social]
-icon_path = "ananke/socials/%s.svg"
-
-[ananke.social.networks.instagram]
-slug = "instagram"
-label = "Instagram"
-color = "#e1306c"
-profile = "https://www.instagram.com/%s/"
-icon = "instagram" # font awesome brand icon name
-
-
-
 [menu]
 
   [[menu.main]]
