@@ -8,23 +8,16 @@ paginate = 10
   [[module.imports]]
     path = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
 
-[params]
-  description = "Hi, I'm Yavie."
-  featured_image = "/images/yavie-hero.jpg"
-  background_color_class = "bg-black"
-  text_color_class = "text-white"
-  show_reading_time = true
-  show_footer = true
-  show_social_icons = true
+[ananke.social]
+icon_path = "ananke/socials/%s.svg"
 
+[ananke.social.networks.instagram]
+slug = "instagram"
+label = "Instagram"
+color = "#e1306c"
+profile = "https://www.instagram.com/%s/"
+icon = "instagram" # font awesome brand icon name
 
-[[params.social]]
-name = "instagram"
-url = "https://www.instagram.com/meetyavie/"
-
-[[params.social]]
-name = "spotify"
-url = "https://open.spotify.com/user/31r53xwiuyhuoqyra3cpsiifo7hi"
 
 
 [menu]
