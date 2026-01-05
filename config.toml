@@ -14,6 +14,9 @@ paginate = 10
   background_color_class = "bg-black"
   text_color_class = "text-white"
   show_reading_time = true
+  show_footer = true
+  show_social_icons = true
+
 
 [[params.social]]
 name = "instagram"
@@ -22,6 +25,7 @@ url = "https://www.instagram.com/meetyavie/"
 [[params.social]]
 name = "spotify"
 url = "https://open.spotify.com/user/31r53xwiuyhuoqyra3cpsiifo7hi"
+
 
 [menu]
 
