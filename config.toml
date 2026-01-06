@@ -17,6 +17,7 @@ featured_image = "/images/yavie-hero.jpg"
 background_color_class = "bg-black"
 text_color_class = "text-white"
 show_reading_time = true
+mainSections = ["posts"]
 
 # Share Icons (ARTIKEL TEILEN)
 showShareIcons = true
